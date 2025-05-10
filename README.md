@@ -20,6 +20,7 @@ LLM 기반의 자연어 생성을 활용하여 보호자에게 색다르고 재�
 | HOME | 댕냥이 신점 정보 입력 | 댕냥이 신점 결과|
 |:--:|:--:|:--:|
 | <img width="200" alt="image" src="https://github.com/user-attachments/assets/a7581e48-822f-4abe-85ca-1f63bfcc0a17" /> | <img width="200" alt="image" src="https://github.com/user-attachments/assets/b917762a-dd90-4710-a145-cceb6b765a13" /> | <img width="200" alt="image" src=https://github.com/user-attachments/assets/83819ed0-9041-40c7-a3f0-e66206fd3433/> |
+
 <br><br><br>
 
 ## 📌 서비스 개요
@@ -30,6 +31,7 @@ LLM 기반의 자연어 생성을 활용하여 보호자에게 색다르고 재�
 | 주요 컨셉 | 신점 세계관 + LLM 기반 해석 |
 | 주요 타겟 | 20~40대 반려동물 보호자 |
 | 수익 모델 | 기본 무료 사주 + 광고 수익 + 프리미엄 유료 리딩 |
+
 <br><br><br>
 
 ## ✨ 핵심 기능
