@@ -74,8 +74,8 @@ LLM(Large Language Model) API를 활용하여 반려동물 운세 콘텐츠를 �
 - AI 기반 반려동물 행동 분석 기능 추가
 
 ## 👥 팀 구성
-- 프론트엔드 엔지니어, 디자이너, 기획, 프롬프트 엔지니어: [@thdus12](https://github.com/thdus12)
-- 프론트엔드 엔지니어, 백엔드 엔지니어, 인프라: [@jaebum7396](https://github.com/jaebum7396)
+- [@thdus12](https://github.com/thdus12) 프론트엔드 엔지니어, 디자이너, 기획, 프롬프트 엔지니어
+- [@jaebum7396](https://github.com/jaebum7396) 프론트엔드 엔지니어, 백엔드 엔지니어, 인프라 스트럭쳐
 
 ## 📞 Contact Us
 - Email: petfortune8996@gmail.com
