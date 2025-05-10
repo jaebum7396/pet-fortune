@@ -8,26 +8,27 @@ Pet Fortune은 반려동물을 위한 운세 서비스를 제공하는 웹 애�
 - **반려동물 궁합 확인**: 여러 반려동물 간의 궁합 및 상호작용 특성 분석
 - **반려동물 전생 탐색**: 반려동물의 과거 삶과 인연에 대한 흥미로운 이야기 제공
 
-## 기술 스택
+## 🛠️ 개발 환경
 
-### 백엔드
-- Java 17
-- Spring Boot 3.2.3
-- Spring Cloud
-- Spring Data JPA
-- QueryDSL
-- Netflix Eureka
+### 💻 Backend
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.3-green)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-17-orange)](https://www.oracle.com/java/)
+[![JPA](https://img.shields.io/badge/JPA-yellow)](https://www.oracle.com/java/technologies/persistence-jsp.html)
+[![QueryDSL](https://img.shields.io/badge/QueryDSL-5.0.0-brightgreen)](http://querydsl.com/)
+[![Spring%20Cloud](https://img.shields.io/badge/Spring%20Cloud-2023.0.0-purple)](https://spring.io/projects/spring-cloud)
+[![Netflix Eureka](https://img.shields.io/badge/Netflix%20Eureka-blue)](https://github.com/Netflix/eureka)
 
-### 프론트엔드
-- Vue.js 3
-- Vuex
-- Vue Router
-- Axios
+### 🖥️ Frontend
+[![Vue.js](https://img.shields.io/badge/Vue.js-3.0-green)](https://vuejs.org/)
+[![Vuex](https://img.shields.io/badge/Vuex-4.0-darkgreen)](https://vuex.vuejs.org/)
+[![Vue Router](https://img.shields.io/badge/Vue%20Router-4.0-yellowgreen)](https://router.vuejs.org/)
+[![Axios](https://img.shields.io/badge/Axios-1.6.0-orange)](https://axios-http.com/)
 
-### 인프라
-- Docker & Docker Compose
-- Jenkins
-- Linux
+### 🔧 Infrastructure
+[![Docker](https://img.shields.io/badge/Docker-blue)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker%20Compose-lightblue)](https://docs.docker.com/compose/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-red)](https://www.jenkins.io/)
+[![Linux](https://img.shields.io/badge/Linux-gray)](https://www.linux.org/)
 
 ## 아키텍처 특징
 
@@ -62,3 +63,11 @@ LLM(Large Language Model) API를 활용하여 반려동물 운세 콘텐츠를 �
 - 모바일 앱 출시 (iOS, Android)
 - 반려동물 커뮤니티 기능 확장
 - AI 기반 반려동물 행동 분석 기능 추가
+
+## 팀 구성
+- 프론트엔드 엔지니어, 디자이너, 기획, 프롬프트 엔지니어: [@thdus12](https://github.com/thdus12)
+- 프론트엔드 엔지니어, 백엔드 엔지니어, 인프라: [@jaebum7396](https://github.com/jaebum7396)
+
+## Contact Us
+- Email: petfortune8996@gmail.com
+- Instagram: [@pet._.fortune](https://www.instagram.com/pet._.fortune)
