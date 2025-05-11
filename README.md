@@ -1,13 +1,17 @@
-# 꼬순내 신당
+<h1 align="center">꼬순내 신당</h1>
 
-<img src="https://pet-fortune.com/og-image.png" alt="Pet Fortune" width="50%">
+<p align="center">
+  <img src="https://pet-fortune.com/og-image.png" alt="Pet Fortune" width="50%">
+</p>
 
-### **🔮 국내 최초! 반려동물을 위한 사주 기반 신점 서비스!🔮**  
+<h3 align="center">🔮 국내 최초! 반려동물을 위한 사주 기반 신점 서비스! 🔮</h3>
 
-> 반려동물의 생년월일만 입력하면, 성격, 궁합, 전생까지 간단하고 귀엽게 풀이해주는 국내 유일의 LLM 기반 신점 콘텐츠!  
-> 신점 세계관 속 천년묵은 고양이 신령님이 전하는, 오직 우리 아이만을 위한 맞춤 점괘를 만나보세요😻  
-> 
-> ✨ 지금 바로, 당신만의 반려동물 신점을 확인해보세요 → [pet-fortune.com](pet-fortune.com)
+<p align="center">
+  반려동물의 생년월일만 입력하면, 성격, 궁합, 전생까지 간단하고 귀엽게 풀이해주는<br>
+  국내 유일의 LLM 기반 신점 콘텐츠!<br>
+  신점 세계관 속 천년묵은 고양이 신령님이 전하는, 오직 우리 아이만을 위한 맞춤 점괘를 만나보세요 😻<br><br>
+  ✨ <strong><a href="https://pet-fortune.com" target="_blank">지금 바로, 당신만의 반려동물 신점을 확인해보세요</a></strong>
+</p>
 
 <br><br><br>
 
