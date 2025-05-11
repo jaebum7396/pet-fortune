@@ -1,7 +1,5 @@
-<h1 align="center">꼬순내 신당</h1>
-
 <p align="center">
-  <img src="https://pet-fortune.com/og-image.png" alt="Pet Fortune" width="50%">
+  <img src="https://pet-fortune.com/logo.png" alt="Pet Fortune" width="50%">
 </p>
 
 <h3 align="center">🔮 국내 최초! 반려동물을 위한 사주 기반 신점 서비스! 🔮</h3>
